@@ -10,8 +10,8 @@ arlocal (in separate terminal a keep it running)
 # Run project
 
 ```
-git clone folder
-cd folder
+git clone https://github.com/LogeswaranA/arweave-test.git
+cd arweave-test
 npm install
 node index.js
 ```
